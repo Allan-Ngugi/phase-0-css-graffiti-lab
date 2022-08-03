@@ -1,1 +1,19 @@
 /* write your override styles here */
+#tag-2 {
+    display: block;
+}
+#wall {
+    display: block;
+}
+#tag-3 {
+    display: block;
+}
+class
+
+div id="wall">
+    <div class="tag-1"></div>
+    <div id="tag-2"></div>
+    <div id="tag-3" class="slick wicked"></div>
+    <div class="parent">
+      <div id="tag-4"></div>
+    </div>
